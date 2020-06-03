@@ -1,2 +1,0 @@
-# Webtro
-Created with CodeSandbox
